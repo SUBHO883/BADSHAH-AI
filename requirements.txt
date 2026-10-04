@@ -1,0 +1,12 @@
+requests
+python-dotenv
+pydantic
+rich
+questionary
+psutil
+bleak
+httpx
+beautifulsoup4
+fastapi
+uvicorn
+pytest
